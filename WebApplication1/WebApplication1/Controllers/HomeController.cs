@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            if(1==1)
+            if(true)
             return View();
         }
 
