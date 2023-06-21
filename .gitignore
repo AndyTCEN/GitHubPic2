@@ -2,5 +2,6 @@
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
-/WebApplication1/.vs/WebApplication1
+/WebApplication1/.vs
 /WebApplication1/WebApplication1/obj
+
